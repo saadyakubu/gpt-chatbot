@@ -1,6 +1,13 @@
 ## Basic GPT Chatbot App
 
-Basic GPT Chatbot AppAI Transcription App based on tutorial series on [learnweb3.io](https://learnweb3.io)
+Basic GPT Chatbot App AI Transcription App based on tutorial series on [learnweb3.io](https://learnweb3.io/?invite-code=BYNj4wQS)
+
+### How to run the app
+Rename .env-sample to .env and enter your OPENAI API keys
+```
+npm install
+npm run dev
+```
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
